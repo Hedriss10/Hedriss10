@@ -9,14 +9,7 @@
 
 `Here I show some educational projects that  I develop for my portfolio`
 
-
-
-
-
-
-<br><br/>
-
-![Hedriss10 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hedriss10&show_icons=true&theme=dracula)
+`![Hedriss10 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hedriss10&show_icons=true&theme=dracula)`
 
 ## Tecnologias 
 
