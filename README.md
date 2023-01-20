@@ -9,37 +9,19 @@
 
 `Here I show some educational projects that  I develop for my portfolio`
 
-`![Hedriss10 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hedriss10&show_icons=true&theme=dracula)`
+![Hedriss10 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hedriss10&show_icons=true&theme=dracula)
 
-## Tecnologias 
-
-### Motivos
-- Motivos de coenvolvimento profissional tecnológicos solução de problemas para o mercado atual.
-
-### Sistema Operacional 
- - Windows 
- - Linux
+## Technology 
 
 ### Ferramentas em apoio
-- Microsoft Power BI
-- DataStudio
-- Pentaho data integration 
-- AWS 
-- SQL server
-- Oracle
-
-### IDE 
-- Rstuido
-- Jupyter
-- Visual Studio
-- Pycharm
-- Colabgoogle
-
-
-### Dia á dia:
-*No dia á dia é feito um estudo com skils para análise de dados e desenvolvimento de inteligência artificial, modelos de aprendizagem de máquina,   python para ciência de dados e desenvolvimento de aplicações gráficas, modelos de machine learning,serviços em nuvens, filtragem e modelagem de SQL em servidores com ambiente cloud.E produções com desenvolvimento de APIREST, com os demais frameworks para atuar no mercado de trabalho.*
+- DataBriks
+- Data Studio
+- SQLOralce Developer 
+- SQLServer
+- MicrosoftAzuere
+- Tableau
 <hr>
-* Skils mais utilizadas:
+### Skils mais utilizadas:
 <div style="display: inline_block"><br/>
 <img  align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/> 
 <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
