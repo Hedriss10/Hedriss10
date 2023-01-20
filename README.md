@@ -9,6 +9,8 @@
 
 `Here I show some educational projects that  I develop for my portfolio`
 
+`In this github there are educational projects, starting from the absolute 0 to the most advanced, taking important topics like big companies work.`
+
 ![Hedriss10 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hedriss10&show_icons=true&theme=dracula)
 
 ## Technology 
