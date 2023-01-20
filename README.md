@@ -20,7 +20,7 @@
 - SQLServer
 - Database **Postgresql**
 - Database **Mongodb**
-- Microsoft **Azuere**
+- Microsoft **Azure**
 - Tableau 
 
 ### Skils:
