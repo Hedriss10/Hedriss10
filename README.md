@@ -1,16 +1,14 @@
-## Olá Seja Bem vindo🧪
+## Welcome my github!
 
-
-### Systems developer |  Data science 
+### System developer | Data Science | Machine learning 
 - 🎓 Licenciado em ciência de dados 
 - 🌱 Desenvolvedor de software
-<!-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 🌱 I’m currently learning everything 🤣-->
-<!--- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to **Open Source projects**
-- 💻 I’m currently learning Front end development at Spotknack mission 2021.-->
+
+`Here I show some educational projects that I develop for my portfolio`
+
+
 - 📫 Email  **hedrisgts@gmail.com**
-- ⚡ Fun fact: Projetos Educacionais
+
 
 
 
