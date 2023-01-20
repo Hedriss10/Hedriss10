@@ -1,13 +1,15 @@
 ## Welcome my github!
 
 ### System developer | Data Science | Machine learning 
-- 🎓 Licenciado em ciência de dados 
-- 🌱 Desenvolvedor de software
 
-`Here I show some educational projects that I develop for my portfolio`
-
+**Knowledge in data science**<br>
+**Systems development in python and java programming languages**
 
 - 📫 Email  **hedrisgts@gmail.com**
+
+`Here I show some educational projects that  I develop for my portfolio`
+
+
 
 
 
