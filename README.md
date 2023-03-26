@@ -5,12 +5,10 @@
 *I am a developer with experience in software development and data analysis. My knowledge in advanced Python, Machine Learning and C++ allowed me to work on complex projects in diverse areas such as finance, healthcare and retail. I have skills in systems development, data analysis and Machine Learning, including predictive model building, data processing, data visualization and task automation.*
 
 
+### connect with me
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hedriss10/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hedrisgts@gmail.com "hedrisgts@gamil.com")
 
-- 📫 Email  **hedrisgts@gmail.com**
-
-`Here I show some educational projects that  I develop for my portfolio`
-
-`In this github there are educational projects, starting from the absolute 0 to the most advanced, taking important topics like big companies work.`
 
 ![Hedriss10 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hedriss10&show_icons=true&theme=dracula)
 
