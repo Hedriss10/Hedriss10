@@ -14,17 +14,11 @@
 
 ![Hedriss10 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hedriss10&show_icons=true&theme=dracula)
 
-## Technology 
-
-### Suporte tools
-- DataBriks
-- Data Studio
-- SQLOralce Developer 
-- SQLServer
-- Database **Postgresql**
-- Database **Mongodb**
-- Microsoft **Azure**
-- Tableau 
+## Technnical Abillites 
+- Programming languages: Python, C++, Java, JavaScript
+- Machine Learning: TensorFlow, Keras, Scikit-Learn, PyTorch, NumPy, Pandas
+- Data analytics: SQL, Tableau, Power BI, R, Apache Spark
+- Systems Development: Git, Docker, Flask, Django, AWS, GCP, Kubernetes, CI/CD
 
 ### Skils:
  - programming language  **Python** 🐍
