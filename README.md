@@ -20,12 +20,10 @@
 
 
 ## Technnical Abillites 
-[![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-
-- Programming languages: Python, C++, Java, JavaScript
-- Machine Learning: TensorFlow, Keras, Scikit-Learn, PyTorch, NumPy, Pandas
-- Data analytics: SQL, Tableau, Power BI, R, Apache Spark
-- Systems Development: Git, Docker, Flask, Django, AWS, GCP, Kubernetes, CI/CD
+- Programming languages: **Python**, **C++**, **JavaScript**, **Java*
+- Machine Learning: **TensorFlow**, **Keras**, **Scikit-Learn**, **PyTorch**, **NumPy**, **Pandas**
+- Data analytics: **SQL**, **Tableau**, **Power BI**, **R**, **Apache Spark**
+- Systems Development: **Git**, **Docker**, **Flask**, **Django**, **AWS**, **GCP**, **Kubernetes**, **CI/CD**
 
 ### Skils:
  - programming language  **Python** 🐍
