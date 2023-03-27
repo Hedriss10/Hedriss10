@@ -9,8 +9,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hedriss10/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hedrisgts@gmail.com "hedrisgts@gamil.com")
 
+### My analytics dashboard
 ---
-
 | [![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hedriss10&layout=compact&theme=dracula&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) | [![Hedriss10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Hedriss10&layout=compact&theme=dracula&show_icons=true&hide_border=True&line_height=20&PAT_1)](https://github.com/anuraghazra/github-readme-stats) |
 | ----------- | ----------- |
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hedriss10&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hedriss10&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
