@@ -20,9 +20,9 @@
 
 
 ## Technnical Abillites 
-- Programming languages: **Python**, **C++**, **JavaScript**, **Java*
+- Programming Languages: **Python**, **C++**, **JavaScript**, **Java**
 - Machine Learning: **TensorFlow**, **Keras**, **Scikit-Learn**, **PyTorch**, **NumPy**, **Pandas**
-- Data analytics: **SQL**, **Tableau**, **Power BI**, **R**, **Apache Spark**
+- Data Analytics: **SQL**, **Tableau**, **Power BI**, **R**, **Apache Spark**
 - Systems Development: **Git**, **Docker**, **Flask**, **Django**, **AWS**, **GCP**, **Kubernetes**, **CI/CD**
 
 ### Skils:
