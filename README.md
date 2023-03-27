@@ -20,7 +20,7 @@
 
 
 ## Technnical Abillites 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Python](https://img.shields.io/badge/Python.-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://python.org)
 - Programming languages: Python, C++, Java, JavaScript
 - Machine Learning: TensorFlow, Keras, Scikit-Learn, PyTorch, NumPy, Pandas
 - Data analytics: SQL, Tableau, Power BI, R, Apache Spark
