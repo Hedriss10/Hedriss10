@@ -23,4 +23,4 @@
 - Programming Languages: **Python**, **C++**, **JavaScript**, **Java**
 - Machine Learning: **TensorFlow**, **Keras**, **Scikit-Learn**, **PyTorch**, **NumPy**, **Pandas** , 
 - Data Analytics: **SQL**, **Plotly**, **R**, **Apache Spark**
-- Systems Development: **Git**, **Docker**, **Flask**, **Django**, **AWS**, **Kubernetes**, **CI/CD**
+- Systems Development: **Git**, **Docker**, **Flask**, **Django**, **AWS**, **Kubernetes**
