@@ -2,8 +2,7 @@
 
 ### System developer | Data Science | Machine learning 
 ---
-*I am a developer with experience in software development and data analysis. My knowledge in advanced Python, Machine Learning and C++ allowed me to work on complex projects in diverse areas such as finance, healthcare and retail. I have skills in systems development, data analysis and Machine Learning, including predictive model building, data processing, data visualization and task automation.*
-
+*As a self-employed professional with more than three years of experience in the technology field, I have strong analytical and creative skills that allow me to build ideas and develop projects efficiently. Throughout my career, I have led challenging projects with multidisciplinary teams and solved complex problems with innovative solutions. With a proven track record in project management, I am able to successfully plan and coordinate all stages of a project, from planning to implementation. My ability to understand business objectives and map technical requirements allows me to propose customized solutions that meet the specific needs of each client. I am a creative thinker, passionate about technology and always looking for new ways to improve processes and increase business efficiency. Furthermore, I am a self-taught person committed to continually expanding my knowledge and skills. An analytical, creative and experienced professional to help you take your business to the next level, contact me. I look forward to discussing your needs and offering customized solutions that will help you achieve your business goals.*
 
 ### Connect With Me
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hedriss10/)
