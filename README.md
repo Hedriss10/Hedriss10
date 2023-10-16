@@ -9,9 +9,3 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hedriss10/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hedrisgts@gmail.com "hedrisgts@gamil.com")
 
-
-### Technnical Abillites 
-- Programming Languages: **Python**, **C++**, **JavaScript**, **Java**
-- Machine Learning: **TensorFlow**, **Keras**, **Scikit-Learn**, **PyTorch**, **NumPy**, **Pandas** , 
-- Data Analytics: **SQL**, **Plotly**, **R**, **Apache Spark**
-- Systems Development: **Git**, **Docker**, **Flask**, **Django**, **AWS**, **Kubernetes**
