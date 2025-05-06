@@ -39,9 +39,6 @@ Tive a oportunidade de desenvolver softwares com essas `skils` durante minha car
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,flask,fastapi,tensorflow,postgresql,javascript,selenium,jenkins,docker&theme=light)](https://skillicons.dev)
 
-# Estatísticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hedriss10&show_icons=true&theme=transparent)
-
 
 
 # Conecte-se comigo
