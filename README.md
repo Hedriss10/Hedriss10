@@ -5,6 +5,14 @@
 
 # Projetos realizados
 
+### Hub Barber Shop System Backend
+Desenvolvi o backend de uma plataforma para barbearias focada em eficiência operacional e automação de agendamentos.
+O sistema integra WhatsApp, Mercado Pago e Amazon S3, além de utilizar workers para processamento de filas e tarefas assíncronas, garantindo mais desempenho e escalabilidade.
+A API cobre autenticação, gestão de agenda e cadastro de entidades do negócio, oferecendo uma base robusta para digitalizar a operação da barbearia.
+
+**Link:**
+<a href="https://github.com/algotechlab/hub-barber-shop-system-backend">hub-barber-system-backend</a>
+
 ### CRM athenas 
 Plataforma de negociação financeira foi desenvolvida para intermediar dados sensíveis de servidores públicos e federais e privados celetistas, CRM específico para atender correspondente bancário, obtendo regra de negócio de microempresa para empresa de grande porte. 
 
